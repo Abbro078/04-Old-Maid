@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Old Maid Assignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Old_Maid_Assignment_jar</output-path>
+    <root id="archive" name="Old Maid Assignment.jar">
+      <element id="module-output" name="Old Maid Assignment" />
+    </root>
+  </artifact>
+</component>
